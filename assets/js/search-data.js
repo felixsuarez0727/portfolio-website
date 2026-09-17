@@ -7,49 +7,49 @@ ninja.data = [{
     title: "About",
     section: "Navigation",
     handler: () => {
-      window.location.href = "/";
+      window.location.href = "/portfolio-website/";
     },
   },{id: "nav-journey",
           title: "Journey",
           description: "Academic and Professional Timeline",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/journey/";
+            window.location.href = "/portfolio-website/journey/";
           },
         },{id: "nav-publications",
           title: "Publications",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/publications/";
+            window.location.href = "/portfolio-website/publications/";
           },
         },{id: "nav-teaching",
           title: "Teaching",
           description: "University of Costa Rica and National Technical University Experience",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/teaching/";
+            window.location.href = "/portfolio-website/teaching/";
           },
         },{id: "nav-projects",
           title: "Projects",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/projects/";
+            window.location.href = "/portfolio-website/projects/";
           },
         },{id: "nav-academium",
           title: "Academium",
           description: "Explore a selection of final graduation projects, showcasing academic research and innovation.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/academium/";
+            window.location.href = "/portfolio-website/academium/";
           },
         },{id: "nav-cv",
           title: "CV",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/cv/";
+            window.location.href = "/portfolio-website/cv/";
           },
         },{id: "post-a-post-with-image-galleries",
       
@@ -59,7 +59,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2024/photo-gallery/";
+          window.location.href = "/portfolio-website/blog/2024/photo-gallery/";
         
       },
     },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
@@ -81,7 +81,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2024/tabs/";
+          window.location.href = "/portfolio-website/blog/2024/tabs/";
         
       },
     },{id: "post-a-post-with-typograms",
@@ -92,7 +92,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2024/typograms/";
+          window.location.href = "/portfolio-website/blog/2024/typograms/";
         
       },
     },{id: "post-a-post-that-can-be-cited",
@@ -103,7 +103,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2024/post-citation/";
+          window.location.href = "/portfolio-website/blog/2024/post-citation/";
         
       },
     },{id: "post-a-post-with-pseudo-code",
@@ -114,7 +114,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2024/pseudocode/";
+          window.location.href = "/portfolio-website/blog/2024/pseudocode/";
         
       },
     },{id: "post-a-post-with-code-diff",
@@ -125,7 +125,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2024/code-diff/";
+          window.location.href = "/portfolio-website/blog/2024/code-diff/";
         
       },
     },{id: "post-a-post-with-advanced-image-components",
@@ -136,7 +136,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2024/advanced-images/";
+          window.location.href = "/portfolio-website/blog/2024/advanced-images/";
         
       },
     },{id: "post-a-post-with-vega-lite",
@@ -147,7 +147,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2024/vega-lite/";
+          window.location.href = "/portfolio-website/blog/2024/vega-lite/";
         
       },
     },{id: "post-a-post-with-geojson",
@@ -158,7 +158,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2024/geojson-map/";
+          window.location.href = "/portfolio-website/blog/2024/geojson-map/";
         
       },
     },{id: "post-a-post-with-echarts",
@@ -169,7 +169,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2024/echarts/";
+          window.location.href = "/portfolio-website/blog/2024/echarts/";
         
       },
     },{id: "post-a-post-with-chart-js",
@@ -180,7 +180,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2024/chartjs/";
+          window.location.href = "/portfolio-website/blog/2024/chartjs/";
         
       },
     },{id: "post-a-post-with-tikzjax",
@@ -191,7 +191,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2023/tikzjax/";
+          window.location.href = "/portfolio-website/blog/2023/tikzjax/";
         
       },
     },{id: "post-a-post-with-bibliography",
@@ -202,7 +202,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2023/post-bibliography/";
+          window.location.href = "/portfolio-website/blog/2023/post-bibliography/";
         
       },
     },{id: "post-a-post-with-jupyter-notebook",
@@ -213,7 +213,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2023/jupyter-notebook/";
+          window.location.href = "/portfolio-website/blog/2023/jupyter-notebook/";
         
       },
     },{id: "post-a-post-with-custom-blockquotes",
@@ -224,7 +224,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2023/custom-blockquotes/";
+          window.location.href = "/portfolio-website/blog/2023/custom-blockquotes/";
         
       },
     },{id: "post-a-post-with-table-of-contents-on-a-sidebar",
@@ -235,7 +235,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2023/sidebar-table-of-contents/";
+          window.location.href = "/portfolio-website/blog/2023/sidebar-table-of-contents/";
         
       },
     },{id: "post-a-post-with-audios",
@@ -246,7 +246,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2023/audios/";
+          window.location.href = "/portfolio-website/blog/2023/audios/";
         
       },
     },{id: "post-a-post-with-videos",
@@ -257,7 +257,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2023/videos/";
+          window.location.href = "/portfolio-website/blog/2023/videos/";
         
       },
     },{id: "post-displaying-beautiful-tables-with-bootstrap-tables",
@@ -268,7 +268,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2023/tables/";
+          window.location.href = "/portfolio-website/blog/2023/tables/";
         
       },
     },{id: "post-a-post-with-table-of-contents",
@@ -279,7 +279,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2023/table-of-contents/";
+          window.location.href = "/portfolio-website/blog/2023/table-of-contents/";
         
       },
     },{id: "post-a-post-with-giscus-comments",
@@ -290,7 +290,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2022/giscus-comments/";
+          window.location.href = "/portfolio-website/blog/2022/giscus-comments/";
         
       },
     },{id: "post-displaying-external-posts-on-your-al-folio-blog",
@@ -312,7 +312,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/assets/pdf/example_pdf.pdf";
+          window.location.href = "/portfolio-website/assets/pdf/example_pdf.pdf";
         
       },
     },{id: "post-a-post-with-diagrams",
@@ -323,7 +323,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2021/diagrams/";
+          window.location.href = "/portfolio-website/blog/2021/diagrams/";
         
       },
     },{id: "post-a-distill-style-blog-post",
@@ -334,7 +334,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2021/distill/";
+          window.location.href = "/portfolio-website/blog/2021/distill/";
         
       },
     },{id: "post-a-post-with-twitter",
@@ -345,7 +345,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2020/twitter/";
+          window.location.href = "/portfolio-website/blog/2020/twitter/";
         
       },
     },{id: "post-a-post-with-disqus-comments",
@@ -356,7 +356,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2015/disqus-comments/";
+          window.location.href = "/portfolio-website/blog/2015/disqus-comments/";
         
       },
     },{id: "post-a-post-with-math",
@@ -367,7 +367,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2015/math/";
+          window.location.href = "/portfolio-website/blog/2015/math/";
         
       },
     },{id: "post-a-post-with-code",
@@ -378,7 +378,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2015/code/";
+          window.location.href = "/portfolio-website/blog/2015/code/";
         
       },
     },{id: "post-a-post-with-images",
@@ -389,7 +389,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2015/images/";
+          window.location.href = "/portfolio-website/blog/2015/images/";
         
       },
     },{id: "post-a-post-with-formatting-and-links",
@@ -400,7 +400,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2015/formatting-and-links/";
+          window.location.href = "/portfolio-website/blog/2015/formatting-and-links/";
         
       },
     },{id: "news-a-simple-inline-announcement",
@@ -410,7 +410,7 @@ ninja.data = [{
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
+              window.location.href = "/portfolio-website/news/announcement_2/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
@@ -418,62 +418,62 @@ ninja.data = [{
           title: 'Microsoft &amp;amp; Terraform',
           description: "This project provisions and manages Microsoft Fabric resources locally with Terraform.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/10_project/";
+              window.location.href = "/portfolio-website/projects/10_project/";
             },},{id: "projects-r-activity-methylation",
           title: 'R Activity Methylation',
           description: "This project analyzes IDAT files using R to visualize epigenetic patterns through bar and density plots.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/11_project/";
+              window.location.href = "/portfolio-website/projects/11_project/";
             },},{id: "projects-github-actions-demo",
           title: 'Github Actions Demo',
           description: "This project uses GitHub Actions for testing, PR rules, and conditional deployment to GitHub Pages.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/12_project/";
+              window.location.href = "/portfolio-website/projects/12_project/";
             },},{id: "projects-conway-39-s-game-of-life",
           title: 'Conway&amp;#39;s Game of Life',
           description: "A Python QtPY implementation of Conway&#39;s Game of Life.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
+              window.location.href = "/portfolio-website/projects/1_project/";
             },},{id: "projects-arithmeticcalculatorreact",
           title: 'ArithmeticCalculatorREACT',
           description: "A web application for performing arithmetic calculations using a REST API.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
+              window.location.href = "/portfolio-website/projects/2_project/";
             },},{id: "projects-data-extraction-test-project",
           title: 'Data Extraction Test Project',
           description: "A project for extracting and processing product data from websites using Scrapy and Python.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
+              window.location.href = "/portfolio-website/projects/3_project/";
             },},{id: "projects-video-categorizer",
           title: 'Video Categorizer',
           description: "API designed to store and categorize videos using Google Cloud Video Intelligence.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
+              window.location.href = "/portfolio-website/projects/4_project/";
             },},{id: "projects-bioinformatics-pipeline",
           title: 'Bioinformatics Pipeline',
           description: "Bioinformatics pipeline that automates the processing of large biological datasets.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project/";
+              window.location.href = "/portfolio-website/projects/5_project/";
             },},{id: "projects-challenger-dev-python",
           title: 'challenger-dev-python',
           description: "Traffic offenses system with an admin interface and API for report generation.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project/";
+              window.location.href = "/portfolio-website/projects/6_project/";
             },},{id: "projects-hcc-extraction-project",
           title: 'HCC Extraction Project',
           description: "An automated system for extracting HCC-relevant conditions from clinical progress notes using AI.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/7_project/";
+              window.location.href = "/portfolio-website/projects/7_project/";
             },},{id: "projects-ai-phone-assistant",
           title: 'AI Phone Assistant',
           description: "AI-powered phone assistant using LLMs and Twilio for small business calls.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project/";
+              window.location.href = "/portfolio-website/projects/8_project/";
             },},{id: "projects-health-care-backend-api",
           title: 'Health Care Backend API',
           description: "A REST API for managing patient records and authentication in a Health Care project.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
+              window.location.href = "/portfolio-website/projects/9_project/";
             },},{
         id: 'social-linkedin',
         title: 'LinkedIn',
