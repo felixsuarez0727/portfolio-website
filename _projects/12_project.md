@@ -333,7 +333,7 @@ You should see:
 
 This commit should not deploy changes to the github pages.
 
-https://felixsuarez0727.github.io/github-actions-demo/
+
 
 The page should look like a blank page with the name of our repository
 
@@ -395,7 +395,6 @@ Then merge.
 Now in the actions section of Github we will see the `pages build and deployment` workflow in progress.
 
 After a few minutes this commit should deploy changes to the github pages.
-https://felixsuarez0727.github.io/github-actions-demo/
 
 
 ---
